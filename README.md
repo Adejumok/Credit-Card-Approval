@@ -28,10 +28,7 @@ The project involves the following steps:
 7. Documentation: Document the analysis process, key findings, and insights obtained from the data. Explain the methodology, assumptions made, and limitations of the analysis.
 
 - `datasets` folder: Contains the dataset files
-    - `1_ignaz_semmelweis_1860.jpeg`
-    - `2_monthly_deaths.csv`
-    - `3_project_image.png`
-    - 4_yearly_deaths_by_clinic.csv
+    - `https://githubcc_approvals.data`
   - `notebook.ipynb`
 - `README.md`: Project overview and instructions.
 
