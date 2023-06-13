@@ -39,9 +39,8 @@ The dataset used in this project is not included in this repository. You can obt
    git clone https://github.com/your-username/credit-card-approval.git
 Install the required dependencies:
 
-shell
-Copy code
-pip install -r requirements.txt
+
+
 Usage
 Navigate to the project directory:
 
