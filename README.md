@@ -28,7 +28,7 @@ The project involves the following steps:
 7. Documentation: Document the analysis process, key findings, and insights obtained from the data. Explain the methodology, assumptions made, and limitations of the analysis.
 
 - `datasets` folder: Contains the dataset files
-    - `https://githubcc_approvals.data`
+    - `cc_approvals.data`
   - `notebook.ipynb`
 - `README.md`: Project overview and instructions.
 
