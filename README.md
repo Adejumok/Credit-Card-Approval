@@ -48,13 +48,10 @@ The project involves the following steps:
 ## Usage
 Navigate to the project directory:
 
-shell
-Copy code
-cd credit-card-approval
+```cd credit-card-approval
+```
 Execute the main analysis script:
 
-shell
-Copy code
 python analysis.py
 Follow the prompts and instructions displayed on the console to perform the data analysis and model building.
 
