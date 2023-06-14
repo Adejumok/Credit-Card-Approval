@@ -45,7 +45,7 @@ The project involves the following steps:
 !pip install pandas numpy matplotlib seaborn
 ```
 
-Usage
+## Usage
 Navigate to the project directory:
 
 shell
