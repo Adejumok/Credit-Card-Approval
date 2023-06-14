@@ -38,9 +38,11 @@ The project involves the following steps:
 
    ```shell
    git clone https://github.com/your-username/credit-card-approval.git
+   
 Install the required dependencies:
-
-
+```
+!pip install pandas numpy matplotlib seaborn
+```
 
 Usage
 Navigate to the project directory:
