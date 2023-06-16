@@ -55,10 +55,9 @@ Navigate to the project directory:
 ```
 cd credit-card-approval
 ```
-
 Follow the prompts and instructions displayed on the console to perform the data analysis and model building.
 
-Contributing
+## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request or submit an issue describing your suggestion.
 
 License
