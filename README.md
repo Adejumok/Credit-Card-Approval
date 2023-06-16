@@ -61,7 +61,6 @@ Follow the prompts and instructions displayed on the console to perform the data
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request or submit an issue describing your suggestion.
 
 License
-This project is licensed under the MIT License.
 
 css
 Copy code
