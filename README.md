@@ -59,11 +59,3 @@ Follow the prompts and instructions displayed on the console to perform the data
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request or submit an issue describing your suggestion.
-
-License
-
-css
-Copy code
-
-This README provides an outline of the project, including an overview of the steps involved, instructions for installation and usage, and sections for data, contributing, and license information. Feel free to modify it according to your specific project requirements and add more details as needed.
-
