@@ -55,9 +55,7 @@ Navigate to the project directory:
 ```
 cd credit-card-approval
 ```
-Execute the main analysis script:
 
-python analysis.py
 Follow the prompts and instructions displayed on the console to perform the data analysis and model building.
 
 Contributing
