@@ -7,6 +7,7 @@ This project aims to analyze credit card approval data using Python and various 
 - [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Conclusion](#conclusion)
 - [Contributing](#contributing)
 
 ## Project Overview
